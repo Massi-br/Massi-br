@@ -8,4 +8,4 @@ En dehors de mon parcours professionnel, je suis un joueur passionné d'échecs,
 
 Je suis déterminé à continuer à élargir mes compétences et mes connaissances dans le domaine de l'informatique et à contribuer de manière significative à l'industrie.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username= Massinissa Brahimi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massi-br)](https://github.com/anuraghazra/github-readme-stats)
