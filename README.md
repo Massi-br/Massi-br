@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Massinissa BRAHIMI
+#### Cybersecurity enthusiast 
+![Cybersecurity enthusiast ](https://media.licdn.com/dms/image/D4E16AQH7MzdOCLHJ1g/profile-displaybackgroundimage-shrink_350_1400/0/1696529471648?e=1707955200&v=beta&t=IBh2sOwfKhn1pT9I2OIm1NuRv0YCn-Pvq6rGSJvQWDY)
 
-En tant qu'étudiant en informatique ambitieux, je m'efforce constamment d'aller au-delà des attentes et de poursuivre l'excellence dans chaque aspect de ma vie professionnelle et académique.
-Mon parcours se caractérise par mon autonomie, ma sérieux, et ma passion pour la tactique et la stratégie.
-En tant que chef de groupe pour un projet de fin d'année, j'ai dirigé avec succès une équipe vers l'achèvement d'objectifs ambitieux, démontrant ainsi ma compétence en gestion et ma capacité à motiver les autres. Mon expérience m'a également permis de participer activement à des CTF (Capture The Flag), où j'ai renforcé mes compétences en sécurité informatique et ma résolution de problèmes.
-En parallèle, en tant que ancien membre de plusieurs clubs informatiques, j'ai contribué à l'organisation d'événements passionnants et instructifs. J'ai également participé activement à ces événements, renforçant ainsi mon réseau professionnel et mes compétences en leadership.
-En dehors de mon parcours professionnel, je suis un joueur passionné d'échecs, ce qui a renforcé ma capacité à anticiper, à élaborer des stratégies et à prendre des décisions éclairées.
+Currently enrolled in my third year of computer science studies, I am eager to pursue a master's degree in cybersecurity, specializing in network security and web penetration testing. My active involvement in Capture The Flag (CTF) competitions has honed my skills in these areas, complementing my strategic thinking cultivated through chess.
 
-Je suis déterminé à continuer à élargir mes compétences et mes connaissances dans le domaine de l'informatique et à contribuer de manière significative à l'industrie.
+Skills:  PYTHON / JAVA  / C  / PHP 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massi-br)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+
+
