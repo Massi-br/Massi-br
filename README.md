@@ -6,7 +6,7 @@ Currently enrolled in my third year of computer science studies, I am eager to p
 
 Skills:  PYTHON / JAVA  / C  / PHP 
 
-currently learning the following new skills: REACT.JS / NODE.JS / EXPRESS.JS / MongoDB
+Currently learning the following new skills: REACT.JS / NODE.JS / EXPRESS.JS / MongoDB
 
 - 🔭 I’m currently working on this page. 
 
