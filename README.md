@@ -2,6 +2,12 @@
 #### Cybersecurity enthusiast 
 
 - 📫 Contactez-moi sur **massibr@outlook.com**
+## A propos de moi 
+
+En tant qu'étudiant en informatique ambitieux, je m'efforce constamment d'aller au-delà des attentes et de poursuivre l'excellence dans chaque aspect de ma vie professionnelle et académique. 
+
+Je suis déterminé à continuer à élargir mes compétences et mes connaissances dans le domaine de l'informatique, en particulier en sécurité et en développement informatique. 
+Actuellement, je suis à la recherche d'une opportunité d'alternance dans ces domaines, où je pourrais contribuer de manière significative à l'industrie tout en acquérant une expérience précieuse.
 
 ## Me retrouver
 
