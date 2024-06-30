@@ -55,4 +55,4 @@ Actuellement, je suis à la recherche d'une opportunité d'alternance dans ces d
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Massi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massi-br&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Massi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massi-br&hide=issues,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
