@@ -53,6 +53,6 @@ Actuellement, je suis à la recherche d'une opportunité d'alternance dans ces d
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 [![Massi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massi-br&hide=issues,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
