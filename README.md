@@ -40,10 +40,13 @@ Actuellement, je suis à la recherche d'une opportunité d'alternance dans ces d
 [![Ghidra](https://img.shields.io/badge/-Ghidra-000?&logo=Ghidra&logoColor=FFD700)](https://ghidra-sre.org/)
 [![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000?&logo=PortSwigger&logoColor=FF6F00)](https://portswigger.net/burp)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark&logoColor=1679A7)](https://www.wireshark.org/)
-[![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=EE0000)](https://www.ansible.com/)
-[![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=623CE4)](https://www.terraform.io/)
 [![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-000?&logo=Cisco&logoColor=1BA0D7)](https://www.netacad.com/courses/packet-tracer)
+
+
+## Logiciels pour automatisation
+[![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=EE0000)](https://www.ansible.com/)
 [![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=Vagrant&logoColor=1563FF)](https://www.vagrantup.com/)
+[![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=623CE4)](https://www.terraform.io/)
 
 ## En apprentissage / perfectionnement
 
