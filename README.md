@@ -1,7 +1,5 @@
 ### Hi there 👋, Massinissa BRAHIMI
 #### Cybersecurity enthusiast 
-
-- 📫 Contactez-moi sur **massikaneki09@gmail.com**
 ## A propos de moi 
 
 En tant qu'étudiant en informatique ambitieux, je m'efforce constamment d'aller au-delà des attentes et de poursuivre l'excellence dans chaque aspect de ma vie professionnelle et académique. 
